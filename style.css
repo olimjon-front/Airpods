@@ -1,0 +1,13 @@
+.navbar{
+    background: #282828;
+}
+.header {
+    background-image: url(./img/Header.png);
+}
+.pad{
+    margin-left: 400px;
+}
+.pad button{
+    margin-left: 180px;
+    margin-bottom: 400px;
+}
